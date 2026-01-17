@@ -13,3 +13,6 @@ git add .
 
 
 ![alt text](image.png)
+# 配置当前工程名称 提交代码的名称
+  Tech-Notes git:(main) ✗ git config --local user.name DevinJi
+➜  Tech-Notes git:(main) ✗ git config --local user.email 365157975@qq.com

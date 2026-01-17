@@ -8,3 +8,5 @@
 - 📝 后端开发：SQL、Sentry治理、中间件使用
 - 🤖 大模型：阿里云DashScope、多模态调用
 - ✏️ 算法刷题：贪心、动态规划、LeetCode题解
+## 仓库地址
+https://github.com/DevinJi/Tech-Notes
